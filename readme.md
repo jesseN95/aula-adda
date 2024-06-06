@@ -9,3 +9,4 @@
 ## testando integraçao
 
 ##git pull
+##git fetch
